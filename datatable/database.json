@@ -1,0 +1,26 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "Surendra Singh",
+      "email": "surrigusain8@gmail.com",
+      "phone": 9917315921,
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Nirdesh Singh",
+      "email": "nirdeshsingh500@gmail.com",
+      "phone": 98796775575,
+      "gender": "Male"
+    },
+    {
+      "name": "Pk Singh",
+      "email": "pk@5050gmail.com",
+      "phone": "9935915880",
+      "active": "true",
+      "gender": "Male",
+      "id": 3
+    }
+  ]
+}
